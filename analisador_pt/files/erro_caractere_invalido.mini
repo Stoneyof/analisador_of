@@ -1,0 +1,5 @@
+inicio
+  int x;
+  if (x > 1) { x = 2 @ 3; } else { x = 3; }
+  while (x < 5) { x = x + 1; }
+fim
